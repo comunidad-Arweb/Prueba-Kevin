@@ -1,3 +1,5 @@
 <?php 
-echo "kcv";
+
+$vari = "Hola";
+echo $vari." mundo";
 ?>
