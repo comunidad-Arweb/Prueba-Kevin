@@ -1,4 +1,5 @@
 <?php echo "Hola mundo"; 
-echo date("d-m-y");
+$fecha = date("d-m-y");
+echo $fecha;
 
 ?>
